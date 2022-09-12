@@ -1,1 +1,1 @@
-# myawssamplecode
+Contains AWS Automation sample code
