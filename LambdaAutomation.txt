@@ -1,0 +1,26 @@
+Automation Scenario 1
+
+1. Everday at 6pm stop EC2 instances across regions and then restart them at 9am . 
+2. An email should be sent out with the list of started and stopped instances
+
+Questions
+1. What are the AWS services which you are going to use
+2. What will you define in the IAM policy attached to the Lambda
+2. What will be the workflow in which these AWS services will be used
+3. Pseudo code for the Lambda function
+
+Automation Scenario 2
+
+There is a company policy which says that all S3 objects must be private
+1) How will you enforce this proactively
+2) How will you enforce this reactively
+
+
+Automation Scenario 3
+Send an automatic email alert when an EC2 instance is stopped
+
+Questions
+1. What are the AWS services which you are going to use
+2. What will be the workflow in which these AWS services will be used
+3. Pseudo code for the Lambda function
+
